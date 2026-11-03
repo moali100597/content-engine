@@ -1,0 +1,8 @@
+{
+"duration": 10,
+"speed": 1,
+"voice": {"src": "vo/hello-film.wav"},
+"music": {"src": "music/music_bed_lyria.mp3", "db": -7, "dips": []},
+"cues": [
+]
+}

@@ -1,0 +1,10 @@
+# Python tools (tools/*.py). ffmpeg must be on PATH.
+numpy
+scipy
+Pillow
+opencv-python
+# optional, per tool
+onnxruntime          # depth.py (depth maps for 2.5D camera moves)
+huggingface_hub      # depth.py (downloads the depth model on first run)
+rembg[cpu]           # cutout.py (subject cut-outs)
+faster-whisper       # takes.py, word timings of generated takes

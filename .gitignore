@@ -1,0 +1,19 @@
+node_modules/
+.env
+out/
+__pycache__/
+
+# media never goes in git: put your own in these folders
+public/*
+!public/.gitkeep
+gen/
+vo/**/*.wav
+vo/**/*.mp3
+music/
+sfx-lib/
+footage/
+assets/
+*.mp4
+*.mov
+*.flac
+.cache/

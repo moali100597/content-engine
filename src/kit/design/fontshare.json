@@ -1,0 +1,1004 @@
+[
+{
+"family": "Array",
+"weight": 400,
+"style": "normal",
+"file": "fonts/fontshare/Array/Array-Regular.woff2"
+},
+{
+"family": "Array",
+"weight": 600,
+"style": "normal",
+"file": "fonts/fontshare/Array/Array-Semibold.woff2"
+},
+{
+"family": "Array",
+"weight": 700,
+"style": "normal",
+"file": "fonts/fontshare/Array/Array-Bold.woff2"
+},
+{
+"family": "Author",
+"weight": 200,
+"style": "italic",
+"file": "fonts/fontshare/Author/Author-ExtralightItalic.woff2"
+},
+{
+"family": "Author",
+"weight": 200,
+"style": "normal",
+"file": "fonts/fontshare/Author/Author-Extralight.woff2"
+},
+{
+"family": "Author",
+"weight": 300,
+"style": "italic",
+"file": "fonts/fontshare/Author/Author-LightItalic.woff2"
+},
+{
+"family": "Author",
+"weight": 300,
+"style": "normal",
+"file": "fonts/fontshare/Author/Author-Light.woff2"
+},
+{
+"family": "Author",
+"weight": 400,
+"style": "italic",
+"file": "fonts/fontshare/Author/Author-Italic.woff2"
+},
+{
+"family": "Author",
+"weight": 400,
+"style": "normal",
+"file": "fonts/fontshare/Author/Author-Regular.woff2"
+},
+{
+"family": "Author",
+"weight": 500,
+"style": "italic",
+"file": "fonts/fontshare/Author/Author-MediumItalic.woff2"
+},
+{
+"family": "Author",
+"weight": 500,
+"style": "normal",
+"file": "fonts/fontshare/Author/Author-Medium.woff2"
+},
+{
+"family": "Author",
+"weight": 600,
+"style": "italic",
+"file": "fonts/fontshare/Author/Author-SemiboldItalic.woff2"
+},
+{
+"family": "Author",
+"weight": 600,
+"style": "normal",
+"file": "fonts/fontshare/Author/Author-Semibold.woff2"
+},
+{
+"family": "Author",
+"weight": 700,
+"style": "italic",
+"file": "fonts/fontshare/Author/Author-BoldItalic.woff2"
+},
+{
+"family": "Author",
+"weight": 700,
+"style": "normal",
+"file": "fonts/fontshare/Author/Author-Bold.woff2"
+},
+{
+"family": "Bespoke Serif",
+"weight": 300,
+"style": "italic",
+"file": "fonts/fontshare/BespokeSerif/BespokeSerif-LightItalic.woff2"
+},
+{
+"family": "Bespoke Serif",
+"weight": 300,
+"style": "normal",
+"file": "fonts/fontshare/BespokeSerif/BespokeSerif-Light.woff2"
+},
+{
+"family": "Bespoke Serif",
+"weight": 400,
+"style": "italic",
+"file": "fonts/fontshare/BespokeSerif/BespokeSerif-Italic.woff2"
+},
+{
+"family": "Bespoke Serif",
+"weight": 400,
+"style": "normal",
+"file": "fonts/fontshare/BespokeSerif/BespokeSerif-Regular.woff2"
+},
+{
+"family": "Bespoke Serif",
+"weight": 500,
+"style": "italic",
+"file": "fonts/fontshare/BespokeSerif/BespokeSerif-MediumItalic.woff2"
+},
+{
+"family": "Bespoke Serif",
+"weight": 500,
+"style": "normal",
+"file": "fonts/fontshare/BespokeSerif/BespokeSerif-Medium.woff2"
+},
+{
+"family": "Bespoke Serif",
+"weight": 700,
+"style": "italic",
+"file": "fonts/fontshare/BespokeSerif/BespokeSerif-BoldItalic.woff2"
+},
+{
+"family": "Bespoke Serif",
+"weight": 700,
+"style": "normal",
+"file": "fonts/fontshare/BespokeSerif/BespokeSerif-Bold.woff2"
+},
+{
+"family": "Bespoke Serif",
+"weight": 800,
+"style": "italic",
+"file": "fonts/fontshare/BespokeSerif/BespokeSerif-ExtraboldItalic.woff2"
+},
+{
+"family": "Bespoke Serif",
+"weight": 800,
+"style": "normal",
+"file": "fonts/fontshare/BespokeSerif/BespokeSerif-Extrabold.woff2"
+},
+{
+"family": "Boska",
+"weight": 200,
+"style": "italic",
+"file": "fonts/fontshare/Boska/Boska-ExtralightItalic.woff2"
+},
+{
+"family": "Boska",
+"weight": 200,
+"style": "normal",
+"file": "fonts/fontshare/Boska/Boska-Extralight.woff2"
+},
+{
+"family": "Boska",
+"weight": 300,
+"style": "italic",
+"file": "fonts/fontshare/Boska/Boska-LightItalic.woff2"
+},
+{
+"family": "Boska",
+"weight": 300,
+"style": "normal",
+"file": "fonts/fontshare/Boska/Boska-Light.woff2"
+},
+{
+"family": "Boska",
+"weight": 400,
+"style": "italic",
+"file": "fonts/fontshare/Boska/Boska-Italic.woff2"
+},
+{
+"family": "Boska",
+"weight": 400,
+"style": "normal",
+"file": "fonts/fontshare/Boska/Boska-Regular.woff2"
+},
+{
+"family": "Boska",
+"weight": 500,
+"style": "italic",
+"file": "fonts/fontshare/Boska/Boska-MediumItalic.woff2"
+},
+{
+"family": "Boska",
+"weight": 500,
+"style": "normal",
+"file": "fonts/fontshare/Boska/Boska-Medium.woff2"
+},
+{
+"family": "Boska",
+"weight": 700,
+"style": "italic",
+"file": "fonts/fontshare/Boska/Boska-BoldItalic.woff2"
+},
+{
+"family": "Boska",
+"weight": 700,
+"style": "normal",
+"file": "fonts/fontshare/Boska/Boska-Bold.woff2"
+},
+{
+"family": "Boska",
+"weight": 900,
+"style": "italic",
+"file": "fonts/fontshare/Boska/Boska-BlackItalic.woff2"
+},
+{
+"family": "Boska",
+"weight": 900,
+"style": "normal",
+"file": "fonts/fontshare/Boska/Boska-Black.woff2"
+},
+{
+"family": "Cabinet Grotesk",
+"weight": 100,
+"style": "normal",
+"file": "fonts/fontshare/CabinetGrotesk/CabinetGrotesk-Thin.woff2"
+},
+{
+"family": "Cabinet Grotesk",
+"weight": 200,
+"style": "normal",
+"file": "fonts/fontshare/CabinetGrotesk/CabinetGrotesk-Extralight.woff2"
+},
+{
+"family": "Cabinet Grotesk",
+"weight": 300,
+"style": "normal",
+"file": "fonts/fontshare/CabinetGrotesk/CabinetGrotesk-Light.woff2"
+},
+{
+"family": "Cabinet Grotesk",
+"weight": 400,
+"style": "normal",
+"file": "fonts/fontshare/CabinetGrotesk/CabinetGrotesk-Regular.woff2"
+},
+{
+"family": "Cabinet Grotesk",
+"weight": 500,
+"style": "normal",
+"file": "fonts/fontshare/CabinetGrotesk/CabinetGrotesk-Medium.woff2"
+},
+{
+"family": "Cabinet Grotesk",
+"weight": 700,
+"style": "normal",
+"file": "fonts/fontshare/CabinetGrotesk/CabinetGrotesk-Bold.woff2"
+},
+{
+"family": "Cabinet Grotesk",
+"weight": 800,
+"style": "normal",
+"file": "fonts/fontshare/CabinetGrotesk/CabinetGrotesk-Extrabold.woff2"
+},
+{
+"family": "Cabinet Grotesk",
+"weight": 900,
+"style": "normal",
+"file": "fonts/fontshare/CabinetGrotesk/CabinetGrotesk-Black.woff2"
+},
+{
+"family": "Chillax",
+"weight": 200,
+"style": "normal",
+"file": "fonts/fontshare/Chillax/Chillax-Extralight.woff2"
+},
+{
+"family": "Chillax",
+"weight": 300,
+"style": "normal",
+"file": "fonts/fontshare/Chillax/Chillax-Light.woff2"
+},
+{
+"family": "Chillax",
+"weight": 400,
+"style": "normal",
+"file": "fonts/fontshare/Chillax/Chillax-Regular.woff2"
+},
+{
+"family": "Chillax",
+"weight": 500,
+"style": "normal",
+"file": "fonts/fontshare/Chillax/Chillax-Medium.woff2"
+},
+{
+"family": "Chillax",
+"weight": 600,
+"style": "normal",
+"file": "fonts/fontshare/Chillax/Chillax-Semibold.woff2"
+},
+{
+"family": "Chillax",
+"weight": 700,
+"style": "normal",
+"file": "fonts/fontshare/Chillax/Chillax-Bold.woff2"
+},
+{
+"family": "Clash Display",
+"weight": 200,
+"style": "normal",
+"file": "fonts/fontshare/ClashDisplay/ClashDisplay-Extralight.woff2"
+},
+{
+"family": "Clash Display",
+"weight": 300,
+"style": "normal",
+"file": "fonts/fontshare/ClashDisplay/ClashDisplay-Light.woff2"
+},
+{
+"family": "Clash Display",
+"weight": 400,
+"style": "normal",
+"file": "fonts/fontshare/ClashDisplay/ClashDisplay-Regular.woff2"
+},
+{
+"family": "Clash Display",
+"weight": 500,
+"style": "normal",
+"file": "fonts/fontshare/ClashDisplay/ClashDisplay-Medium.woff2"
+},
+{
+"family": "Clash Display",
+"weight": 600,
+"style": "normal",
+"file": "fonts/fontshare/ClashDisplay/ClashDisplay-Semibold.woff2"
+},
+{
+"family": "Clash Display",
+"weight": 700,
+"style": "normal",
+"file": "fonts/fontshare/ClashDisplay/ClashDisplay-Bold.woff2"
+},
+{
+"family": "Clash Grotesk",
+"weight": 200,
+"style": "normal",
+"file": "fonts/fontshare/ClashGrotesk/ClashGrotesk-Extralight.woff2"
+},
+{
+"family": "Clash Grotesk",
+"weight": 300,
+"style": "normal",
+"file": "fonts/fontshare/ClashGrotesk/ClashGrotesk-Light.woff2"
+},
+{
+"family": "Clash Grotesk",
+"weight": 400,
+"style": "normal",
+"file": "fonts/fontshare/ClashGrotesk/ClashGrotesk-Regular.woff2"
+},
+{
+"family": "Clash Grotesk",
+"weight": 500,
+"style": "normal",
+"file": "fonts/fontshare/ClashGrotesk/ClashGrotesk-Medium.woff2"
+},
+{
+"family": "Clash Grotesk",
+"weight": 600,
+"style": "normal",
+"file": "fonts/fontshare/ClashGrotesk/ClashGrotesk-Semibold.woff2"
+},
+{
+"family": "Clash Grotesk",
+"weight": 700,
+"style": "normal",
+"file": "fonts/fontshare/ClashGrotesk/ClashGrotesk-Bold.woff2"
+},
+{
+"family": "Erode",
+"weight": 300,
+"style": "italic",
+"file": "fonts/fontshare/Erode/Erode-LightItalic.woff2"
+},
+{
+"family": "Erode",
+"weight": 300,
+"style": "normal",
+"file": "fonts/fontshare/Erode/Erode-Light.woff2"
+},
+{
+"family": "Erode",
+"weight": 400,
+"style": "italic",
+"file": "fonts/fontshare/Erode/Erode-Italic.woff2"
+},
+{
+"family": "Erode",
+"weight": 400,
+"style": "normal",
+"file": "fonts/fontshare/Erode/Erode-Regular.woff2"
+},
+{
+"family": "Erode",
+"weight": 500,
+"style": "italic",
+"file": "fonts/fontshare/Erode/Erode-MediumItalic.woff2"
+},
+{
+"family": "Erode",
+"weight": 500,
+"style": "normal",
+"file": "fonts/fontshare/Erode/Erode-Medium.woff2"
+},
+{
+"family": "Erode",
+"weight": 600,
+"style": "italic",
+"file": "fonts/fontshare/Erode/Erode-SemiboldItalic.woff2"
+},
+{
+"family": "Erode",
+"weight": 600,
+"style": "normal",
+"file": "fonts/fontshare/Erode/Erode-Semibold.woff2"
+},
+{
+"family": "Erode",
+"weight": 700,
+"style": "italic",
+"file": "fonts/fontshare/Erode/Erode-BoldItalic.woff2"
+},
+{
+"family": "Erode",
+"weight": 700,
+"style": "normal",
+"file": "fonts/fontshare/Erode/Erode-Bold.woff2"
+},
+{
+"family": "Gambetta",
+"weight": 300,
+"style": "italic",
+"file": "fonts/fontshare/Gambetta/Gambetta-LightItalic.woff2"
+},
+{
+"family": "Gambetta",
+"weight": 300,
+"style": "normal",
+"file": "fonts/fontshare/Gambetta/Gambetta-Light.woff2"
+},
+{
+"family": "Gambetta",
+"weight": 400,
+"style": "italic",
+"file": "fonts/fontshare/Gambetta/Gambetta-Italic.woff2"
+},
+{
+"family": "Gambetta",
+"weight": 400,
+"style": "normal",
+"file": "fonts/fontshare/Gambetta/Gambetta-Regular.woff2"
+},
+{
+"family": "Gambetta",
+"weight": 500,
+"style": "italic",
+"file": "fonts/fontshare/Gambetta/Gambetta-MediumItalic.woff2"
+},
+{
+"family": "Gambetta",
+"weight": 500,
+"style": "normal",
+"file": "fonts/fontshare/Gambetta/Gambetta-Medium.woff2"
+},
+{
+"family": "Gambetta",
+"weight": 600,
+"style": "italic",
+"file": "fonts/fontshare/Gambetta/Gambetta-SemiboldItalic.woff2"
+},
+{
+"family": "Gambetta",
+"weight": 600,
+"style": "normal",
+"file": "fonts/fontshare/Gambetta/Gambetta-Semibold.woff2"
+},
+{
+"family": "Gambetta",
+"weight": 700,
+"style": "italic",
+"file": "fonts/fontshare/Gambetta/Gambetta-BoldItalic.woff2"
+},
+{
+"family": "Gambetta",
+"weight": 700,
+"style": "normal",
+"file": "fonts/fontshare/Gambetta/Gambetta-Bold.woff2"
+},
+{
+"family": "General Sans",
+"weight": 200,
+"style": "italic",
+"file": "fonts/fontshare/GeneralSans/GeneralSans-ExtralightItalic.woff2"
+},
+{
+"family": "General Sans",
+"weight": 200,
+"style": "normal",
+"file": "fonts/fontshare/GeneralSans/GeneralSans-Extralight.woff2"
+},
+{
+"family": "General Sans",
+"weight": 300,
+"style": "italic",
+"file": "fonts/fontshare/GeneralSans/GeneralSans-LightItalic.woff2"
+},
+{
+"family": "General Sans",
+"weight": 300,
+"style": "normal",
+"file": "fonts/fontshare/GeneralSans/GeneralSans-Light.woff2"
+},
+{
+"family": "General Sans",
+"weight": 400,
+"style": "italic",
+"file": "fonts/fontshare/GeneralSans/GeneralSans-Italic.woff2"
+},
+{
+"family": "General Sans",
+"weight": 400,
+"style": "normal",
+"file": "fonts/fontshare/GeneralSans/GeneralSans-Regular.woff2"
+},
+{
+"family": "General Sans",
+"weight": 500,
+"style": "italic",
+"file": "fonts/fontshare/GeneralSans/GeneralSans-MediumItalic.woff2"
+},
+{
+"family": "General Sans",
+"weight": 500,
+"style": "normal",
+"file": "fonts/fontshare/GeneralSans/GeneralSans-Medium.woff2"
+},
+{
+"family": "General Sans",
+"weight": 600,
+"style": "italic",
+"file": "fonts/fontshare/GeneralSans/GeneralSans-SemiboldItalic.woff2"
+},
+{
+"family": "General Sans",
+"weight": 600,
+"style": "normal",
+"file": "fonts/fontshare/GeneralSans/GeneralSans-Semibold.woff2"
+},
+{
+"family": "General Sans",
+"weight": 700,
+"style": "italic",
+"file": "fonts/fontshare/GeneralSans/GeneralSans-BoldItalic.woff2"
+},
+{
+"family": "General Sans",
+"weight": 700,
+"style": "normal",
+"file": "fonts/fontshare/GeneralSans/GeneralSans-Bold.woff2"
+},
+{
+"family": "Panchang",
+"weight": 200,
+"style": "normal",
+"file": "fonts/fontshare/Panchang/Panchang-Extralight.woff2"
+},
+{
+"family": "Panchang",
+"weight": 300,
+"style": "normal",
+"file": "fonts/fontshare/Panchang/Panchang-Light.woff2"
+},
+{
+"family": "Panchang",
+"weight": 400,
+"style": "normal",
+"file": "fonts/fontshare/Panchang/Panchang-Regular.woff2"
+},
+{
+"family": "Panchang",
+"weight": 500,
+"style": "normal",
+"file": "fonts/fontshare/Panchang/Panchang-Medium.woff2"
+},
+{
+"family": "Panchang",
+"weight": 600,
+"style": "normal",
+"file": "fonts/fontshare/Panchang/Panchang-Semibold.woff2"
+},
+{
+"family": "Panchang",
+"weight": 700,
+"style": "normal",
+"file": "fonts/fontshare/Panchang/Panchang-Bold.woff2"
+},
+{
+"family": "Panchang",
+"weight": 800,
+"style": "normal",
+"file": "fonts/fontshare/Panchang/Panchang-Extrabold.woff2"
+},
+{
+"family": "Satoshi",
+"weight": 300,
+"style": "italic",
+"file": "fonts/fontshare/Satoshi/Satoshi-LightItalic.woff2"
+},
+{
+"family": "Satoshi",
+"weight": 300,
+"style": "normal",
+"file": "fonts/fontshare/Satoshi/Satoshi-Light.woff2"
+},
+{
+"family": "Satoshi",
+"weight": 400,
+"style": "italic",
+"file": "fonts/fontshare/Satoshi/Satoshi-Italic.woff2"
+},
+{
+"family": "Satoshi",
+"weight": 400,
+"style": "normal",
+"file": "fonts/fontshare/Satoshi/Satoshi-Regular.woff2"
+},
+{
+"family": "Satoshi",
+"weight": 500,
+"style": "italic",
+"file": "fonts/fontshare/Satoshi/Satoshi-MediumItalic.woff2"
+},
+{
+"family": "Satoshi",
+"weight": 500,
+"style": "normal",
+"file": "fonts/fontshare/Satoshi/Satoshi-Medium.woff2"
+},
+{
+"family": "Satoshi",
+"weight": 700,
+"style": "italic",
+"file": "fonts/fontshare/Satoshi/Satoshi-BoldItalic.woff2"
+},
+{
+"family": "Satoshi",
+"weight": 700,
+"style": "normal",
+"file": "fonts/fontshare/Satoshi/Satoshi-Bold.woff2"
+},
+{
+"family": "Satoshi",
+"weight": 900,
+"style": "italic",
+"file": "fonts/fontshare/Satoshi/Satoshi-BlackItalic.woff2"
+},
+{
+"family": "Satoshi",
+"weight": 900,
+"style": "normal",
+"file": "fonts/fontshare/Satoshi/Satoshi-Black.woff2"
+},
+{
+"family": "Sentient",
+"weight": 200,
+"style": "italic",
+"file": "fonts/fontshare/Sentient/Sentient-ExtralightItalic.woff2"
+},
+{
+"family": "Sentient",
+"weight": 200,
+"style": "normal",
+"file": "fonts/fontshare/Sentient/Sentient-Extralight.woff2"
+},
+{
+"family": "Sentient",
+"weight": 300,
+"style": "italic",
+"file": "fonts/fontshare/Sentient/Sentient-LightItalic.woff2"
+},
+{
+"family": "Sentient",
+"weight": 300,
+"style": "normal",
+"file": "fonts/fontshare/Sentient/Sentient-Light.woff2"
+},
+{
+"family": "Sentient",
+"weight": 400,
+"style": "italic",
+"file": "fonts/fontshare/Sentient/Sentient-Italic.woff2"
+},
+{
+"family": "Sentient",
+"weight": 400,
+"style": "normal",
+"file": "fonts/fontshare/Sentient/Sentient-Regular.woff2"
+},
+{
+"family": "Sentient",
+"weight": 500,
+"style": "italic",
+"file": "fonts/fontshare/Sentient/Sentient-MediumItalic.woff2"
+},
+{
+"family": "Sentient",
+"weight": 500,
+"style": "normal",
+"file": "fonts/fontshare/Sentient/Sentient-Medium.woff2"
+},
+{
+"family": "Sentient",
+"weight": 700,
+"style": "italic",
+"file": "fonts/fontshare/Sentient/Sentient-BoldItalic.woff2"
+},
+{
+"family": "Sentient",
+"weight": 700,
+"style": "normal",
+"file": "fonts/fontshare/Sentient/Sentient-Bold.woff2"
+},
+{
+"family": "Supreme",
+"weight": 100,
+"style": "italic",
+"file": "fonts/fontshare/Supreme/Supreme-ThinItalic.woff2"
+},
+{
+"family": "Supreme",
+"weight": 100,
+"style": "normal",
+"file": "fonts/fontshare/Supreme/Supreme-Thin.woff2"
+},
+{
+"family": "Supreme",
+"weight": 200,
+"style": "italic",
+"file": "fonts/fontshare/Supreme/Supreme-ExtralightItalic.woff2"
+},
+{
+"family": "Supreme",
+"weight": 200,
+"style": "normal",
+"file": "fonts/fontshare/Supreme/Supreme-Extralight.woff2"
+},
+{
+"family": "Supreme",
+"weight": 300,
+"style": "italic",
+"file": "fonts/fontshare/Supreme/Supreme-LightItalic.woff2"
+},
+{
+"family": "Supreme",
+"weight": 300,
+"style": "normal",
+"file": "fonts/fontshare/Supreme/Supreme-Light.woff2"
+},
+{
+"family": "Supreme",
+"weight": 400,
+"style": "italic",
+"file": "fonts/fontshare/Supreme/Supreme-Italic.woff2"
+},
+{
+"family": "Supreme",
+"weight": 400,
+"style": "normal",
+"file": "fonts/fontshare/Supreme/Supreme-Regular.woff2"
+},
+{
+"family": "Supreme",
+"weight": 500,
+"style": "italic",
+"file": "fonts/fontshare/Supreme/Supreme-MediumItalic.woff2"
+},
+{
+"family": "Supreme",
+"weight": 500,
+"style": "normal",
+"file": "fonts/fontshare/Supreme/Supreme-Medium.woff2"
+},
+{
+"family": "Supreme",
+"weight": 700,
+"style": "italic",
+"file": "fonts/fontshare/Supreme/Supreme-BoldItalic.woff2"
+},
+{
+"family": "Supreme",
+"weight": 700,
+"style": "normal",
+"file": "fonts/fontshare/Supreme/Supreme-Bold.woff2"
+},
+{
+"family": "Supreme",
+"weight": 800,
+"style": "italic",
+"file": "fonts/fontshare/Supreme/Supreme-ExtraboldItalic.woff2"
+},
+{
+"family": "Supreme",
+"weight": 800,
+"style": "normal",
+"file": "fonts/fontshare/Supreme/Supreme-Extrabold.woff2"
+},
+{
+"family": "Switzer",
+"weight": 100,
+"style": "italic",
+"file": "fonts/fontshare/Switzer/Switzer-ThinItalic.woff2"
+},
+{
+"family": "Switzer",
+"weight": 100,
+"style": "normal",
+"file": "fonts/fontshare/Switzer/Switzer-Thin.woff2"
+},
+{
+"family": "Switzer",
+"weight": 200,
+"style": "italic",
+"file": "fonts/fontshare/Switzer/Switzer-ExtralightItalic.woff2"
+},
+{
+"family": "Switzer",
+"weight": 200,
+"style": "normal",
+"file": "fonts/fontshare/Switzer/Switzer-Extralight.woff2"
+},
+{
+"family": "Switzer",
+"weight": 300,
+"style": "italic",
+"file": "fonts/fontshare/Switzer/Switzer-LightItalic.woff2"
+},
+{
+"family": "Switzer",
+"weight": 300,
+"style": "normal",
+"file": "fonts/fontshare/Switzer/Switzer-Light.woff2"
+},
+{
+"family": "Switzer",
+"weight": 400,
+"style": "italic",
+"file": "fonts/fontshare/Switzer/Switzer-Italic.woff2"
+},
+{
+"family": "Switzer",
+"weight": 400,
+"style": "normal",
+"file": "fonts/fontshare/Switzer/Switzer-Regular.woff2"
+},
+{
+"family": "Switzer",
+"weight": 500,
+"style": "italic",
+"file": "fonts/fontshare/Switzer/Switzer-MediumItalic.woff2"
+},
+{
+"family": "Switzer",
+"weight": 500,
+"style": "normal",
+"file": "fonts/fontshare/Switzer/Switzer-Medium.woff2"
+},
+{
+"family": "Switzer",
+"weight": 600,
+"style": "italic",
+"file": "fonts/fontshare/Switzer/Switzer-SemiboldItalic.woff2"
+},
+{
+"family": "Switzer",
+"weight": 600,
+"style": "normal",
+"file": "fonts/fontshare/Switzer/Switzer-Semibold.woff2"
+},
+{
+"family": "Switzer",
+"weight": 700,
+"style": "italic",
+"file": "fonts/fontshare/Switzer/Switzer-BoldItalic.woff2"
+},
+{
+"family": "Switzer",
+"weight": 700,
+"style": "normal",
+"file": "fonts/fontshare/Switzer/Switzer-Bold.woff2"
+},
+{
+"family": "Switzer",
+"weight": 800,
+"style": "italic",
+"file": "fonts/fontshare/Switzer/Switzer-ExtraboldItalic.woff2"
+},
+{
+"family": "Switzer",
+"weight": 800,
+"style": "normal",
+"file": "fonts/fontshare/Switzer/Switzer-Extrabold.woff2"
+},
+{
+"family": "Switzer",
+"weight": 900,
+"style": "italic",
+"file": "fonts/fontshare/Switzer/Switzer-BlackItalic.woff2"
+},
+{
+"family": "Switzer",
+"weight": 900,
+"style": "normal",
+"file": "fonts/fontshare/Switzer/Switzer-Black.woff2"
+},
+{
+"family": "Tanker",
+"weight": 400,
+"style": "normal",
+"file": "fonts/fontshare/Tanker/Tanker-Regular.woff2"
+},
+{
+"family": "Zodiak",
+"weight": 100,
+"style": "italic",
+"file": "fonts/fontshare/Zodiak/Zodiak-ThinItalic.woff2"
+},
+{
+"family": "Zodiak",
+"weight": 100,
+"style": "normal",
+"file": "fonts/fontshare/Zodiak/Zodiak-Thin.woff2"
+},
+{
+"family": "Zodiak",
+"weight": 300,
+"style": "italic",
+"file": "fonts/fontshare/Zodiak/Zodiak-LightItalic.woff2"
+},
+{
+"family": "Zodiak",
+"weight": 300,
+"style": "normal",
+"file": "fonts/fontshare/Zodiak/Zodiak-Light.woff2"
+},
+{
+"family": "Zodiak",
+"weight": 400,
+"style": "italic",
+"file": "fonts/fontshare/Zodiak/Zodiak-Italic.woff2"
+},
+{
+"family": "Zodiak",
+"weight": 400,
+"style": "normal",
+"file": "fonts/fontshare/Zodiak/Zodiak-Regular.woff2"
+},
+{
+"family": "Zodiak",
+"weight": 700,
+"style": "italic",
+"file": "fonts/fontshare/Zodiak/Zodiak-BoldItalic.woff2"
+},
+{
+"family": "Zodiak",
+"weight": 700,
+"style": "normal",
+"file": "fonts/fontshare/Zodiak/Zodiak-Bold.woff2"
+},
+{
+"family": "Zodiak",
+"weight": 800,
+"style": "italic",
+"file": "fonts/fontshare/Zodiak/Zodiak-ExtraboldItalic.woff2"
+},
+{
+"family": "Zodiak",
+"weight": 800,
+"style": "normal",
+"file": "fonts/fontshare/Zodiak/Zodiak-Extrabold.woff2"
+},
+{
+"family": "Zodiak",
+"weight": 900,
+"style": "italic",
+"file": "fonts/fontshare/Zodiak/Zodiak-BlackItalic.woff2"
+},
+{
+"family": "Zodiak",
+"weight": 900,
+"style": "normal",
+"file": "fonts/fontshare/Zodiak/Zodiak-Black.woff2"
+}
+]
