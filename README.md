@@ -1,8 +1,30 @@
 # Content Engine
 
+**Make videos, ads and social designs in code. Arabic-first.**
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
+[![Built on Remotion](https://img.shields.io/badge/built%20on-Remotion-0B84F3.svg)](https://www.remotion.dev)
+![TypeScript](https://img.shields.io/badge/TypeScript-React-3178C6.svg)
+![RTL](https://img.shields.io/badge/Arabic-RTL%20ready-1F8A4C.svg)
+
+<p align="center">
+  <img src="docs/media/hello-film.gif" alt="An explainer scene: the copy builds line by line next to a window and a character" height="300">
+  &nbsp;
+  <img src="docs/media/hello-reel.gif" alt="A 9:16 cut: four shots, each arriving its own way" height="300">
+</p>
+<p align="center"><sub>The two examples in this repo, rendered as they are. Left: <code>HelloFilm</code> (format 1). Right: <code>HelloReel916</code> (format 2).</sub></p>
+
 An open engine for making videos in code, built on [Remotion](https://www.remotion.dev) (React). It grew out of a real production studio in Cairo, where it made explainers, ads, footage cuts and social designs for creators and clients. This repository holds the engine only: the shared kit, the tools around it, and two small examples. No client projects, media or keys.
 
 Arabic-first and RTL-ready: Arabic type, word-by-word captions, Egyptian and Gulf copy all work out of the box. It works just as well in English.
+
+**Why use it**
+
+- One spec, two sizes: the same film renders 16:9 for YouTube and 9:16 for Reels, TikTok and Shorts.
+- The edit is code: every cut, move, grade and caption is a line you can read, diff and reuse. A new ad starts from the last one.
+- Sound is built, not dragged: voice loudness, effects on the beat, music ducked under the voice, mastered in one command.
+- AI where it helps: Google image, video, voice and music generation through your own Cloud project, with no API keys stored.
+- Arabic done right: real Arabic faces, right-to-left layout, captions that follow the voice word by word.
 
 > **بالعربي:** ده محرك مفتوح المصدر لعمل الفيديوهات بالكود، مبني على Remotion. فيه أدوات المونتاج والموشن والكابشن والصوت وتحليل الفوتيج والتوليد من جوجل، من غير أي مشاريع عملاء أو ملفات أو مفاتيح. ابدأ بالمثالين `HelloReel916` و `HelloFilm`، وحط الفوتيج بتاعك في `public/`.
 
